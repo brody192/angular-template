@@ -12,6 +12,8 @@ tags:
 
 This project was originally generated with [`npm init @angular myApp`](https://angular.io/quick-start#create-a-new-angular-app-from-the-command-line)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/13NBfA?referralCode=ySCnWl)
+
 ## ✨ Features
 
 - Angular 16 + TypeScript + Caddy
